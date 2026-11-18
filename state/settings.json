@@ -30,7 +30,8 @@
   "audioDevices": {
     "audioOutputDevice": "Default",
     "audioInputDevice": "None",
-    "masterOutputPair": 0
+    "masterOutputPair": 0,
+    "aggregateDevices": []
   },
   "hasApiKey": false
 }
