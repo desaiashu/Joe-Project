@@ -6,8 +6,8 @@ A [Songbird](https://tivra.com) project.
 |---|---|
 | Tempo | 130 BPM |
 | Meter | 4/4 |
-| Tracks | 6 |
-| Clips | 2 |
+| Tracks | 7 |
+| Clips | 3 |
 | Plugins | 13 |
 | Automation lanes | 0 |
 
@@ -15,6 +15,7 @@ A [Songbird](https://tivra.com) project.
 
 - Chicago sketch 10-Mini V3
 - MIDI
+- MIDI [dub]
 - Hall
 - Plate
 - Delay

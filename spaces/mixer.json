@@ -50,6 +50,13 @@
       "feedback": false
     },
     {
+      "trackId": "fjx",
+      "returnId": "rrt",
+      "gain": 0.0,
+      "preFader": false,
+      "feedback": false
+    },
+    {
       "trackId": "rrt",
       "returnId": "rrt",
       "gain": 0.0,
@@ -58,6 +65,20 @@
     },
     {
       "trackId": "rmr",
+      "returnId": "rmr",
+      "gain": 0.0,
+      "preFader": false,
+      "feedback": false
+    },
+    {
+      "trackId": "fjx",
+      "returnId": "rmy",
+      "gain": 0.0,
+      "preFader": false,
+      "feedback": false
+    },
+    {
+      "trackId": "fjx",
       "returnId": "rmr",
       "gain": 0.0,
       "preFader": false,
@@ -164,6 +185,13 @@
     {
       "trackId": "rmy",
       "returnId": "rmy",
+      "gain": 0.0,
+      "preFader": false,
+      "feedback": false
+    },
+    {
+      "trackId": "fjx",
+      "returnId": "rlp",
       "gain": 0.0,
       "preFader": false,
       "feedback": false

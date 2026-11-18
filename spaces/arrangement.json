@@ -27,10 +27,15 @@
       "trackType": "midi",
       "auditionLane": null,
       "takeLaneCount": 0,
-      "audioFlipped": false,
+      "dubTrackId": "fjx",
+      "audioFlipped": true,
       "dubState": "empty",
       "dubCapturePoint": "postFx",
-      "audioTakeLaneCount": 0
+      "audioTakeLaneCount": 0,
+      "freeze": {
+        "state": "frozen",
+        "clipId": "ptis"
+      }
     },
     "rlp": {
       "id": "rlp",
@@ -71,11 +76,22 @@
       "audioFlipped": false,
       "dubState": "empty",
       "audioTakeLaneCount": 0
+    },
+    "fjx": {
+      "id": "fjx",
+      "name": "MIDI [dub]",
+      "trackType": "dub",
+      "auditionLane": null,
+      "takeLaneCount": 0,
+      "audioFlipped": false,
+      "dubState": "empty",
+      "audioTakeLaneCount": 0
     }
   },
   "trackOrder": [
     "fgu",
     "ugc",
+    "fjx",
     "rlp",
     "rmy",
     "rmr",
