@@ -7,5 +7,9 @@
     "sha256": "06b211e322c5e5275844fb43dc7894d04011f17ca04b58cb5dbef5be51f90cab",
     "bytes": 1424876
   },
+  "samples/frozen/MIDI_freeze_1795028692713.wav": {
+    "sha256": "06b211e322c5e5275844fb43dc7894d04011f17ca04b58cb5dbef5be51f90cab",
+    "bytes": 1424876
+  },
   "schemaVersion": 5
 }
