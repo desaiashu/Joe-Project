@@ -13,7 +13,7 @@ A [Songbird](https://tivra.com) project.
 
 ## Tracks
 
-- Audio
+- Chicago sketch 10-Mini V3
 - MIDI
 - Hall
 - Plate
