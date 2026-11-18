@@ -24,6 +24,14 @@
           "beat": 1.25,
           "durationBeats": 0.125,
           "channel": 0
+        },
+        {
+          "id": "44c7er",
+          "note": 57,
+          "velocity": 100,
+          "beat": 2.125,
+          "durationBeats": 0.125,
+          "channel": 0
         }
       ]
     },
