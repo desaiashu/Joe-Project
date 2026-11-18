@@ -28,14 +28,10 @@
       "auditionLane": null,
       "takeLaneCount": 0,
       "dubTrackId": "fjx",
-      "audioFlipped": true,
+      "audioFlipped": false,
       "dubState": "empty",
       "dubCapturePoint": "postFx",
-      "audioTakeLaneCount": 0,
-      "freeze": {
-        "state": "frozen",
-        "clipId": "ptis"
-      }
+      "audioTakeLaneCount": 0
     },
     "rlp": {
       "id": "rlp",
