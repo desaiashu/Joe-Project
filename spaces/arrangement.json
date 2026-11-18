@@ -29,6 +29,7 @@
       "takeLaneCount": 0,
       "audioFlipped": false,
       "dubState": "empty",
+      "dubCapturePoint": "postFx",
       "audioTakeLaneCount": 0
     },
     "rlp": {
