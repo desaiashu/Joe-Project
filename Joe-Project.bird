@@ -33,3 +33,5 @@ master
   strip tivraMastering
 
 sec main
+  trk 2 MIDI |ugc
+    c 1:0 1:0 |ejii
