@@ -8,7 +8,16 @@
     "offsetBeats": 0.0,
     "source": {
       "type": "Midi",
-      "notes": []
+      "notes": [
+        {
+          "id": "tj9asq",
+          "note": 57,
+          "velocity": 100,
+          "beat": 0.5,
+          "durationBeats": 0.125,
+          "channel": 0
+        }
+      ]
     },
     "araEnabled": false,
     "araBypassed": false,

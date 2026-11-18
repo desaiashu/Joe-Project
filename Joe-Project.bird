@@ -35,3 +35,6 @@ master
 sec main
   trk 2 MIDI |ugc
     c 1:0 1:0 |ejii
+      p _xx s _hd _x _s
+        v 100
+        n A3
