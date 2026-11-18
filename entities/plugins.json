@@ -535,5 +535,14 @@
       "limInputDb": 0.0
     },
     "sidechainSensitivity": 0.6000000238418579
+  },
+  "wahj": {
+    "id": "wahj",
+    "trackId": "ugc",
+    "typeName": "Abbey Road RS127 Box",
+    "slot": 0,
+    "enabled": true,
+    "state": null,
+    "sidechainSensitivity": 0.6000000238418579
   }
 }
