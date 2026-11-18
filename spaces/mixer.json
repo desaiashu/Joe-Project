@@ -8,22 +8,8 @@
   "clipMix": {},
   "sends": [
     {
-      "trackId": "fgu",
-      "returnId": "rlp",
-      "gain": 0.0,
-      "preFader": false,
-      "feedback": false
-    },
-    {
-      "trackId": "ugc",
-      "returnId": "rlp",
-      "gain": 0.0,
-      "preFader": false,
-      "feedback": false
-    },
-    {
-      "trackId": "rmy",
-      "returnId": "rrt",
+      "trackId": "rlp",
+      "returnId": "rmr",
       "gain": 0.0,
       "preFader": false,
       "feedback": false
@@ -37,55 +23,13 @@
     },
     {
       "trackId": "rmr",
-      "returnId": "rrt",
-      "gain": 0.0,
-      "preFader": false,
-      "feedback": false
-    },
-    {
-      "trackId": "ugc",
-      "returnId": "rrt",
-      "gain": 0.0,
-      "preFader": false,
-      "feedback": false
-    },
-    {
-      "trackId": "rrt",
-      "returnId": "rrt",
+      "returnId": "rmr",
       "gain": 0.0,
       "preFader": false,
       "feedback": false
     },
     {
       "trackId": "rmr",
-      "returnId": "rmr",
-      "gain": 0.0,
-      "preFader": false,
-      "feedback": false
-    },
-    {
-      "trackId": "rlp",
-      "returnId": "rmr",
-      "gain": 0.0,
-      "preFader": false,
-      "feedback": false
-    },
-    {
-      "trackId": "fgu",
-      "returnId": "rmr",
-      "gain": 0.0,
-      "preFader": false,
-      "feedback": false
-    },
-    {
-      "trackId": "rlp",
-      "returnId": "rmy",
-      "gain": 0.0,
-      "preFader": false,
-      "feedback": false
-    },
-    {
-      "trackId": "fgu",
       "returnId": "rmy",
       "gain": 0.0,
       "preFader": false,
@@ -94,34 +38,6 @@
     {
       "trackId": "rmr",
       "returnId": "rlp",
-      "gain": 0.0,
-      "preFader": false,
-      "feedback": false
-    },
-    {
-      "trackId": "fgu",
-      "returnId": "rrt",
-      "gain": 0.0,
-      "preFader": false,
-      "feedback": false
-    },
-    {
-      "trackId": "rmy",
-      "returnId": "rmr",
-      "gain": 0.0,
-      "preFader": false,
-      "feedback": false
-    },
-    {
-      "trackId": "rrt",
-      "returnId": "rmr",
-      "gain": 0.0,
-      "preFader": false,
-      "feedback": false
-    },
-    {
-      "trackId": "rlp",
-      "returnId": "rrt",
       "gain": 0.0,
       "preFader": false,
       "feedback": false
@@ -148,14 +64,84 @@
       "feedback": false
     },
     {
+      "trackId": "rrt",
+      "returnId": "rrt",
+      "gain": 0.0,
+      "preFader": false,
+      "feedback": false
+    },
+    {
+      "trackId": "rmy",
+      "returnId": "rmr",
+      "gain": 0.0,
+      "preFader": false,
+      "feedback": false
+    },
+    {
+      "trackId": "rmy",
+      "returnId": "rrt",
+      "gain": 0.0,
+      "preFader": false,
+      "feedback": false
+    },
+    {
       "trackId": "ugc",
-      "returnId": "rmy",
+      "returnId": "rlp",
       "gain": 0.0,
       "preFader": false,
       "feedback": false
     },
     {
       "trackId": "rmr",
+      "returnId": "rrt",
+      "gain": 0.0,
+      "preFader": false,
+      "feedback": false
+    },
+    {
+      "trackId": "ugc",
+      "returnId": "rrt",
+      "gain": 0.0,
+      "preFader": false,
+      "feedback": false
+    },
+    {
+      "trackId": "rlp",
+      "returnId": "rmy",
+      "gain": 0.0,
+      "preFader": false,
+      "feedback": false
+    },
+    {
+      "trackId": "fgu",
+      "returnId": "rmr",
+      "gain": 0.0,
+      "preFader": false,
+      "feedback": false
+    },
+    {
+      "trackId": "fgu",
+      "returnId": "rlp",
+      "gain": 0.0,
+      "preFader": false,
+      "feedback": false
+    },
+    {
+      "trackId": "fgu",
+      "returnId": "rmy",
+      "gain": 0.0,
+      "preFader": false,
+      "feedback": false
+    },
+    {
+      "trackId": "rrt",
+      "returnId": "rmr",
+      "gain": 0.0,
+      "preFader": false,
+      "feedback": false
+    },
+    {
+      "trackId": "ugc",
       "returnId": "rmy",
       "gain": 0.0,
       "preFader": false,
@@ -171,6 +157,20 @@
     {
       "trackId": "ugc",
       "returnId": "rmr",
+      "gain": 0.0,
+      "preFader": false,
+      "feedback": false
+    },
+    {
+      "trackId": "fgu",
+      "returnId": "rrt",
+      "gain": 0.0,
+      "preFader": false,
+      "feedback": false
+    },
+    {
+      "trackId": "rlp",
+      "returnId": "rrt",
       "gain": 0.0,
       "preFader": false,
       "feedback": false
