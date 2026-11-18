@@ -14,9 +14,44 @@
       },
       "dubClips": [],
       "dubState": "empty",
-      "audioFlipped": false,
+      "audioFlipped": true,
       "dubCapturePoint": "postFx",
       "audioTakeLaneCount": 0
+    }
+  ],
+  "freezes": [
+    {
+      "trackId": "ugc",
+      "clip": {
+        "id": "qatt",
+        "trackId": "ugc",
+        "name": "Freeze",
+        "startBeat": 0.0,
+        "lengthBeats": 8.03928125,
+        "offsetBeats": 0.0,
+        "source": {
+          "type": "Audio",
+          "path": "samples/frozen/MIDI_freeze_1795028692713.wav",
+          "sampleRate": 48000.0,
+          "channels": 2,
+          "lengthSamples": 178101,
+          "timeStretchMode": "Signalsmith",
+          "sourceBpm": 130.0,
+          "sourceBpmOrigin": "Inherited"
+        },
+        "araEnabled": false,
+        "araBypassed": false,
+        "gain": 1.0,
+        "fadeInBeats": 0.0,
+        "fadeOutBeats": 0.0,
+        "fadeCurve": 1.0,
+        "loopEnabled": false,
+        "reversed": false,
+        "swing": {
+          "amount": 0.0,
+          "mode": "eighth"
+        }
+      }
     }
   ]
 }
