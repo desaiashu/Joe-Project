@@ -33,6 +33,9 @@ master
   strip tivraMastering
 
 sec main
+  trk 1 Chicago sketch 10-Mini V3 |fgu
+    c 0:302 34:256 |gnzf
+      'samples/Chicago sketch 10-Mini V3.wav'
   trk 2 MIDI |ugc
     c 1:0 1:0 |ejii
       p _xx s _xx _s s _xxd s _xxd s _xxd _s
