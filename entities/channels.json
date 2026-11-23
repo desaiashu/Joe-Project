@@ -1,5 +1,6 @@
 {
   "fgu": {
+    "sendMode": "post",
     "gain": 1.0,
     "pan": 0.0,
     "inputGainDb": 0.0,
@@ -15,6 +16,7 @@
     "monoSource": "sum"
   },
   "ugc": {
+    "sendMode": "post",
     "gain": 1.0,
     "pan": 0.0,
     "inputGainDb": 0.0,

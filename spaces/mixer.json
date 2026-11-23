@@ -8,28 +8,21 @@
   "clipMix": {},
   "sends": [
     {
-      "trackId": "rmy",
-      "returnId": "rmr",
-      "gain": 0.0,
-      "preFader": false,
-      "feedback": false
-    },
-    {
-      "trackId": "rlp",
-      "returnId": "rrt",
-      "gain": 0.0,
-      "preFader": false,
-      "feedback": false
-    },
-    {
-      "trackId": "rmr",
+      "trackId": "fgu",
       "returnId": "rlp",
       "gain": 0.0,
       "preFader": false,
       "feedback": false
     },
     {
-      "trackId": "rlp",
+      "trackId": "fgu",
+      "returnId": "rmr",
+      "gain": 0.0,
+      "preFader": false,
+      "feedback": false
+    },
+    {
+      "trackId": "fgu",
       "returnId": "rmy",
       "gain": 0.0,
       "preFader": false,
@@ -50,48 +43,6 @@
       "feedback": false
     },
     {
-      "trackId": "ugc",
-      "returnId": "rmy",
-      "gain": 0.0,
-      "preFader": false,
-      "feedback": false
-    },
-    {
-      "trackId": "rmr",
-      "returnId": "rrt",
-      "gain": 0.0,
-      "preFader": false,
-      "feedback": false
-    },
-    {
-      "trackId": "fgu",
-      "returnId": "rmy",
-      "gain": 0.0,
-      "preFader": false,
-      "feedback": false
-    },
-    {
-      "trackId": "rrt",
-      "returnId": "rrt",
-      "gain": 0.0,
-      "preFader": false,
-      "feedback": false
-    },
-    {
-      "trackId": "ugc",
-      "returnId": "rlp",
-      "gain": 0.0,
-      "preFader": false,
-      "feedback": false
-    },
-    {
-      "trackId": "rrt",
-      "returnId": "rlp",
-      "gain": 0.0,
-      "preFader": false,
-      "feedback": false
-    },
-    {
       "trackId": "rlp",
       "returnId": "rmr",
       "gain": 0.0,
@@ -99,63 +50,28 @@
       "feedback": false
     },
     {
-      "trackId": "rmy",
-      "returnId": "rlp",
-      "gain": 0.0,
-      "preFader": false,
-      "feedback": false
-    },
-    {
-      "trackId": "rmy",
+      "trackId": "rlp",
       "returnId": "rmy",
       "gain": 0.0,
       "preFader": false,
       "feedback": false
     },
     {
-      "trackId": "rrt",
-      "returnId": "rmy",
-      "gain": 0.0,
-      "preFader": false,
-      "feedback": false
-    },
-    {
-      "trackId": "ugc",
+      "trackId": "rlp",
       "returnId": "rrt",
-      "gain": 0.0,
-      "preFader": false,
-      "feedback": false
-    },
-    {
-      "trackId": "rrt",
-      "returnId": "rmr",
       "gain": 0.0,
       "preFader": false,
       "feedback": false
     },
     {
       "trackId": "rmr",
-      "returnId": "rmr",
-      "gain": 0.0,
-      "preFader": false,
-      "feedback": false
-    },
-    {
-      "trackId": "rmy",
-      "returnId": "rrt",
-      "gain": 0.0,
-      "preFader": false,
-      "feedback": false
-    },
-    {
-      "trackId": "fgu",
       "returnId": "rlp",
       "gain": 0.0,
       "preFader": false,
       "feedback": false
     },
     {
-      "trackId": "fgu",
+      "trackId": "rmr",
       "returnId": "rmr",
       "gain": 0.0,
       "preFader": false,
@@ -169,8 +85,92 @@
       "feedback": false
     },
     {
+      "trackId": "rmr",
+      "returnId": "rrt",
+      "gain": 0.0,
+      "preFader": false,
+      "feedback": false
+    },
+    {
+      "trackId": "rmy",
+      "returnId": "rlp",
+      "gain": 0.0,
+      "preFader": false,
+      "feedback": false
+    },
+    {
+      "trackId": "rmy",
+      "returnId": "rmr",
+      "gain": 0.0,
+      "preFader": false,
+      "feedback": false
+    },
+    {
+      "trackId": "rmy",
+      "returnId": "rmy",
+      "gain": 0.0,
+      "preFader": false,
+      "feedback": false
+    },
+    {
+      "trackId": "rmy",
+      "returnId": "rrt",
+      "gain": 0.0,
+      "preFader": false,
+      "feedback": false
+    },
+    {
+      "trackId": "rrt",
+      "returnId": "rlp",
+      "gain": 0.0,
+      "preFader": false,
+      "feedback": false
+    },
+    {
+      "trackId": "rrt",
+      "returnId": "rmr",
+      "gain": 0.0,
+      "preFader": false,
+      "feedback": false
+    },
+    {
+      "trackId": "rrt",
+      "returnId": "rmy",
+      "gain": 0.0,
+      "preFader": false,
+      "feedback": false
+    },
+    {
+      "trackId": "rrt",
+      "returnId": "rrt",
+      "gain": 0.0,
+      "preFader": false,
+      "feedback": false
+    },
+    {
+      "trackId": "ugc",
+      "returnId": "rlp",
+      "gain": 0.0,
+      "preFader": false,
+      "feedback": false
+    },
+    {
       "trackId": "ugc",
       "returnId": "rmr",
+      "gain": 0.0,
+      "preFader": false,
+      "feedback": false
+    },
+    {
+      "trackId": "ugc",
+      "returnId": "rmy",
+      "gain": 0.0,
+      "preFader": false,
+      "feedback": false
+    },
+    {
+      "trackId": "ugc",
+      "returnId": "rrt",
       "gain": 0.0,
       "preFader": false,
       "feedback": false
@@ -180,6 +180,7 @@
     "rlp": {
       "id": "rlp",
       "name": "Hall",
+      "letter": "A",
       "busIndex": 0,
       "gain": 1.0,
       "pan": 0.0,
@@ -188,6 +189,7 @@
     "rmy": {
       "id": "rmy",
       "name": "Plate",
+      "letter": "B",
       "busIndex": 1,
       "gain": 1.0,
       "pan": 0.0,
@@ -196,6 +198,7 @@
     "rmr": {
       "id": "rmr",
       "name": "Delay",
+      "letter": "C",
       "busIndex": 2,
       "gain": 1.0,
       "pan": 0.0,
@@ -204,6 +207,7 @@
     "rrt": {
       "id": "rrt",
       "name": "Color",
+      "letter": "D",
       "busIndex": 3,
       "gain": 1.0,
       "pan": 0.0,

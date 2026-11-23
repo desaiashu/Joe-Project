@@ -9,29 +9,8 @@ arr
 tracks
   1 Chicago sketch 10-Mini V3 |fgu
     type audio
-    strip tivraStrip
   2 MIDI |ugc
     type midi
-    plugin tivraWavetable
-    fx Abbey Road RS127 Box
-    strip tivraStrip
-
-returns
-  0 Hall |rlp
-    fx tivraHall
-    strip tivraStrip
-  1 Plate |rmy
-    fx tivraPlate
-    strip tivraStrip
-  2 Delay |rmr
-    fx tivraDelay
-    strip tivraStrip
-  3 Color |rrt
-    fx tivraDistortion
-    strip tivraStrip
-
-master
-  strip tivraMastering
 
 sec main
   trk 1 Chicago sketch 10-Mini V3 |fgu

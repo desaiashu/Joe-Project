@@ -1,7 +1,7 @@
 {
   "metadata": {
     "id": "lfhkqx",
-    "name": "Untitled",
+    "name": "Joe Project",
     "createdAt": "",
     "modifiedAt": ""
   },
@@ -14,5 +14,10 @@
   "trackAppearance": {},
   "embeddedTemplates": {},
   "videoFilePath": null,
-  "spaces": []
+  "spaces": [
+    {
+      "id": "space-nxvcpy",
+      "view": "arrange"
+    }
+  ]
 }
