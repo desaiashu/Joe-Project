@@ -1,5 +1,17 @@
 {
-  "nodes": {},
+  "nodes": {
+    "wyqy": {
+      "id": "wyqy",
+      "name": "visualizer[main]",
+      "kind": {
+        "type": "VisualizerSource",
+        "panelId": "main",
+        "kind": "flowshield",
+        "inputSource": "{\"kind\":\"main\"}",
+        "params": null
+      }
+    }
+  },
   "edges": {},
   "avVariations": {},
   "variations": {}
